@@ -1,5 +1,5 @@
 # Snipaste-2.9.1
-截屏工具，解压即用
+<img src="./Snipastepng.png" width="20" height="20">截屏工具，解压即用
 ## 全局操作
 截屏	F1  
 贴图	F3   
